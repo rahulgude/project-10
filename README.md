@@ -25,6 +25,11 @@ This is a web based application developed for health related based website in in
 - Included the feedback Survey form to increase the scope of improvement 
 
 ## Screenshots
+  ![image](https://user-images.githubusercontent.com/118538654/203059011-1e9f4a82-2054-456f-bee1-6d50d635d2c4.png)
+![image](https://user-images.githubusercontent.com/118538654/203059042-db3b19bb-2f54-4a6b-b4b0-ec1a46e44bae.png)
+![image](https://user-images.githubusercontent.com/118538654/203059097-f3322da8-bea2-4e70-b6d4-684ff5e8843a.png)
+
+![image](https://user-images.githubusercontent.com/118538654/203059064-6d2c9d5f-e26c-4c5a-956f-52ea671c1119.png)
 
 
 
@@ -33,10 +38,11 @@ This is a web based application developed for health related based website in in
 
 ### About Us -
 
-
+   hello guys  just we are providing  health bot people needs
 
 ### Services -
-
+ 
+ we are providing so many facilities 
 
 
 ### Contact us -
